@@ -82,7 +82,7 @@ export function AppSidebar() {
         {!collapsed && (
           <div className="overflow-hidden">
             <h1 className="font-display font-bold text-foreground text-[15px] leading-tight truncate">
-              EduManage
+              D-Code Studio
             </h1>
             <p className="text-[11px] text-muted-foreground truncate">College CMS</p>
           </div>
